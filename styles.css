@@ -7,9 +7,16 @@ a {
     color: black;
 }
 h1 {
-  padding: none;
+  padding: 0px;
   font-size: 30px;
-  margin: none;
+  margin: 0px;
+}
+h3 {
+  margin: 0px;
+}
+#about p {
+  padding: 0px;
+  margin: 0px;
 }
 a:hover {
     text-decoration: underline;
